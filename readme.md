@@ -43,7 +43,7 @@ tubebank.get_nusselt_number(staggered, diameter, mean_superficial_velocity,
 ```
 
 ## Contributing
-Pull requests are welcome! I would be particularly interested in contributions that could incorporate more recent/accurate data.
+Pull requests are welcome! I would be particularly interested in contributions that could incorporate more recent/accurate data. Find the project on [Github](https://github.com/ellieLitwack/tubebank).
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
